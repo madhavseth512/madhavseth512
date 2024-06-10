@@ -1,4 +1,4 @@
-## Hi there 👋 I am Madhav Seth
+<h1> align = "center" Hello 👋,  I am Madhav Seth</h1>
 
 <!--
 **madhavseth512/madhavseth512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
