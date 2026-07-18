@@ -1,25 +1,21 @@
-<h1 align="center"> Hello 👋, I am Madhav Seth</h1>
+<h1 align="center"> Hello 👋, I am Madhav</h1>
 
 <table align="center" style="border: none;">
   <tr>
-    <td valign="middle">
+    <td align="center" valign="middle">
 <pre>
-      .-----\ /-----.
-      |      -      |
-      |             |
-      |             |
-      |             |
-=============================
-==============.==============
-  / ~~~~~       ~~~~~ \
- /|     |       |\
- W   ---   / \   ---   W
- \.      |o o|      ./
-  |                 |
-  \    #########    /
-   \ ## ----- ## /
-    \##       ##/
-     \____v____/
+       .-----\ /-----.
+       |      -      |
+  =========================
+  ============.============
+    / ~~~~~       ~~~~~ \
+   /|     |       |     |\
+   W   ---   / \   ---   W
+   \.      |o o|      ./
+    \    #########    /
+     \ ## ----- ## /
+      \##       ##/
+       \____v____/
 </pre>
     </td>
     <td valign="middle">
@@ -58,7 +54,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit/scikit-original.svg" alt="scikit-learn" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/> 
   </a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/LangChain-⚡-black?style=flat-square" alt="langchain" height="40"/> 
@@ -70,7 +66,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
@@ -106,13 +102,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhavseth512&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="madhavseth512's GitHub stats" />
-  <br/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=madhavseth512&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavseth512&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+
+![madhavseth512's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhavseth512&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=madhavseth512&theme=vue-dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhavseth512&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 </div>
 
 <div align="center">
