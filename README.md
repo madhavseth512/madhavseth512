@@ -1,17 +1,121 @@
-<h1 align="center"> Hello 👋,  I am Madhav Seth</h1>
+<h1 align="center"> Hello 👋, I am Madhav Seth</h1>
 
+<table align="center" style="border: none;">
+  <tr>
+    <td valign="middle">
+<pre>
+      .-----\ /-----.
+      |      -      |
+      |             |
+      |             |
+      |             |
+=============================
+==============.==============
+  / ~~~~~       ~~~~~ \
+ /|     |       |\
+ W   ---   / \   ---   W
+ \.      |o o|      ./
+  |                 |
+  \    #########    /
+   \ ## ----- ## /
+    \##       ##/
+     \____v____/
+</pre>
+    </td>
+    <td valign="middle">
+      <blockquote>
+        <h3>Software Developer | Machine Learning Enthusiast</h3>
+        <p>I am a Dual Degree (B.Tech + M.Tech) student at <b>IIT Kharagpur</b>, specializing in Environmental Engineering and Management. I have a strong passion for Software Development Engineering (SDE), Generative AI, and building impactful software solutions.</p>
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
+---
 
-- 🔭 I’m currently working on [Reccomendation System](https://github.com/madhavseth512/Recommendation_sys)
-- 🌱 I’m currently learning **Python, C++**
-- 📫 How to reach me: **sethmadhav125@gmail.com**
+### 🚀 About Me
 
+- 🔭 **Currently working on:** 
+  - **GeoSync:** A room-based location sharing application with geofencing.
+  - **Q-Armor:** A research project developing a Quantum Machine Learning (QML) based intrusion detection system for IoT devices.
+- 💼 **Experience:** Explored Generative AI and Agentic AI (LangChain, CrewAI) during my summer internship at Capgemini, and built a research-based startup idea chatbot at Cambridge Judge Business School.
+- 🌱 **Currently learning:** Advanced Data Structures & Algorithms (DSA), and expanding my expertise in LLMs and Quantum ML.
 
-<p align="left">
+---
+
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit/scikit-original.svg" alt="scikit-learn" width="40" height="40"/> 
+  </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/LangChain-⚡-black?style=flat-square" alt="langchain" height="40"/> 
+  </a>
+  <a href="https://qiskit.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Qiskit-⚛️-blueviolet?style=flat-square" alt="qiskit" height="40"/> 
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> 
+  </a>
+  <a href="https://socket.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="socketio" width="40" height="40"/> 
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
+  </a>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> 
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> 
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=madhavseth512&theme=vue-dark&hide_border=true&card_width=465)<br>
-![madhavseth512's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhavseth512&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhavseth512&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="madhavseth512's GitHub stats" />
+  <br/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=madhavseth512&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavseth512&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=madhavseth512&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views Counter" />
+</div>
